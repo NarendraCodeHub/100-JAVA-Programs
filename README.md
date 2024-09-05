@@ -33,3 +33,6 @@ Welcome to the **100-JAVA-Programs** repository! This collection is designed to 
 
 ## Contributing
 We welcome contributions! If you have an idea for a new program or an improvement to an existing one, please fork the repository and submit a pull request. Your contributions can help others learn and grow.
+
+## License
+This repository is licensed under the MIT License. See the LICENSE file for more details.
