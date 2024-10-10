@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+ * 4. How to get Using input using Scanner Program in java.
+ */
 public class GetInputFromUser {
 
 	public static void main(String[] args) {
