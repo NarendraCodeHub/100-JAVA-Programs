@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * 15. Simple For Loop Program in Java
+ * 14. Simple For Loop Program in Java
  */
 public class ForLoop {
 	
