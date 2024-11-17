@@ -25,64 +25,68 @@ Welcome to the **100-JAVA-Programs** repository! This collection is designed to 
 4. **Contribute**: Found an interesting program or improvement? Feel free to fork the repository, make changes, and submit a pull request!
 
 
+Here's the updated **## File Structure** section for your repository, reflecting the file directory structure with all programs located in the `src` folder:
+
+---
+
 ## File Structure
 
-Below is a glimpse of the programs included in this repository:
+Below is the list of programs included in this repository, organized under the `src` directory:
 
 1. **Simple Java Program**  
-   File: [HelloWorld.java](HelloWorld.java)  
+   File: [src/HelloWorld.java](src/HelloWorld.java)  
    Description: Prints "Hello, World!" to the console.
 
 2. **Print Integer in Java**  
-   File: [Integers.java](Integers.java)  
+   File: [src/Integers.java](src/Integers.java)  
    Description: Prints an integer to the console.
 
 3. **Command Line Argument**  
-   File: [Arguments.java](Arguments.java)  
+   File: [src/Arguments.java](src/Arguments.java)  
    Description: Demonstrates handling and printing of command-line arguments.
 
 4. **Get Input Using Scanner**  
-   File: [GetInputFromUser.java](GetInputFromUser.java)  
+   File: [src/GetInputFromUser.java](src/GetInputFromUser.java)  
    Description: Accepts user input using the `Scanner` class.
 
 5. **Convert Fahrenheit to Celsius**  
-   File: [FahrenheitToCelsius.java](FahrenheitToCelsius.java)  
+   File: [src/FahrenheitToCelsius.java](src/FahrenheitToCelsius.java)  
    Description: Converts a temperature from Fahrenheit to Celsius.
 
 6. **Swap Two Numbers Using a Third Variable**  
-   File: [SwapNumbers.java](SwapNumbers.java)  
+   File: [src/SwapNumbers.java](src/SwapNumbers.java)  
    Description: Swaps two numbers with a temporary variable.
 
 7. **Swap Two Numbers Without a Third Variable**  
-   File: [SwapNumbersWithout.java](SwapNumbersWithout.java)  
+   File: [src/SwapNumbersWithout.java](src/SwapNumbersWithout.java)  
    Description: Swaps two numbers without using any additional variable.
 
 8. **Add Two Numbers**  
-   File: [AddNumbers.java](AddNumbers.java)  
+   File: [src/AddNumbers.java](src/AddNumbers.java)  
    Description: Adds two numbers and displays the result.
 
 9. **Find the Largest Number**  
-   File: [LargestOfThreeNumbers.java](LargestOfThreeNumbers.java)  
+   File: [src/LargestOfThreeNumbers.java](src/LargestOfThreeNumbers.java)  
    Description: Determines the largest number among three inputs.
 
 10. **If-Else Clause in Java**  
-    File: [IfElse.java](IfElse.java)  
+    File: [src/IfElse.java](src/IfElse.java)  
     Description: Demonstrates the `if-else` clause.
 
 11. **Check Odd or Even Number**  
-    File: [OddOrEven.java](OddOrEven.java)  
+    File: [src/OddOrEven.java](src/OddOrEven.java)  
     Description: Checks if a number is odd or even.
 
 12. **Find Factorial of a Number**  
-    File: [Factorial.java](Factorial.java)  
+    File: [src/Factorial.java](src/Factorial.java)  
     Description: Calculates the factorial of a given number.
 
 13. **Compare Two Strings**  
-    File: [CompareString.java](CompareString.java)  
+    File: [src/CompareString.java](src/CompareString.java)  
     Description: Compares two strings lexicographically.
 
 14. **Simple For Loop Program**  
-    File: [ForLoop.java](ForLoop.java)  
+    File: [src/ForLoop.java](src/ForLoop.java)  
     Description: Demonstrates a `for` loop to print a range of numbers.
 
 ---
