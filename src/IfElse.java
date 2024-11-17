@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * 11. If Else clause in java- Program.
+ * 10. If Else clause in java- Program.
  */
 
 public class IfElse {
