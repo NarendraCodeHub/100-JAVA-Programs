@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * 12. How to check Odd and Even Number in java.
+ * 11. How to check Odd and Even Number in java.
  */
 public class OddOrEven {
 
