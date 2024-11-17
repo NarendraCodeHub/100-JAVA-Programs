@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * 13. Find factorial for given no Program in Java
+ * 12. Find factorial for given no Program in Java
  */
 public class Factorial {
 	public static void main(String[] args) {
