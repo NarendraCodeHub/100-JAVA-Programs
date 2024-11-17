@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * 14. How to complete 2 string in Java program.
+ * 13. How to complete 2 string in Java program.
  */
 public class CompareString {
 	public static void main(String[] args) {
