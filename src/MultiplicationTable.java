@@ -10,7 +10,11 @@ public class MultiplicationTable {
 		try (Scanner scan = new Scanner(System.in)){
 			
 			 System.out.println("Enter an integer to print it's multiplication table");
-
+			 
+			while (! scan.hasNextInt()) {
+				System.out.println("Inavlid Imput, Enter A valid Number!!!");
+				scan.next();
+			}
 			int num = scan.nextInt();
 			
 			 System.out.println("Multiplication table of "+ num +" is :-");
@@ -21,7 +25,7 @@ public class MultiplicationTable {
 				System.out.println(num + " X " + i + " = " + temp);
 			}
 		} catch (Exception e) {
-            System.out.println("Unexpected error! Please try again.");
+            System.out.println("Unexpected error! Please try again.!!!");
 		}
 	}
 }
