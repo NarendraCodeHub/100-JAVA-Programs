@@ -89,12 +89,14 @@ Below is the list of programs included in this repository, organized under the `
     File: [src/ForLoop.java](src/ForLoop.java)  
     Description: Demonstrates a `for` loop to print a range of numbers.
 
-15. ** Simple While Loop Program**
-    File: [src/WhileLoop.java](src/WhileLoop.java)  
-    Description: Demonstrates a `while` loop simple program with numbers.
+15. **Simple While Loop Program**
+
+     File: [src/WhileLoop.java](src/WhileLoop.java)  
+      Description: Demonstrates a `while` loop simple program with numbers.
 
 16. **Print Reverse Number**
-    File: [src/ReverseNumber.java](src/ReverseNumber.java)  
+
+     File: [src/ReverseNumber.java](src/ReverseNumber.java)  
     Description: Reverses a valid positive integer and handles single-digit numbers and leading zeros.
 
 
