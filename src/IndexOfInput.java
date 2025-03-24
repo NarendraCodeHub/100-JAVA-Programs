@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/**
+ * 29. How to use indesOf() in java Program.
+ */
+
 public class IndexOfInput {
 
 	public static void main(String[] args) {
