@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/**
+ * 30.How to replace entered string ReplaceAllEnterString() in java Program.
+ */
+
 public class ReplaceAllEnterString {
 
 	public static void main(String[] args) {
