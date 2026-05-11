@@ -33,6 +33,8 @@ Here's the updated **## File Structure** section for your repository, reflecting
 
 Below is the list of programs included in this repository, organized under the `src` directory:
 
+# Java Programs List
+
 1. **Simple Java Program**  
    File: [src/HelloWorld.java](src/HelloWorld.java)  
    Description: Prints "Hello, World!" to the console.
@@ -47,59 +49,131 @@ Below is the list of programs included in this repository, organized under the `
 
 4. **Get Input Using Scanner**  
    File: [src/GetInputFromUser.java](src/GetInputFromUser.java)  
-   Description: Accepts user input using the `Scanner` class.
+   Description: Accepts user input using the Scanner class.
 
 5. **Convert Fahrenheit to Celsius**  
    File: [src/FahrenheitToCelsius.java](src/FahrenheitToCelsius.java)  
-   Description: Converts a temperature from Fahrenheit to Celsius.
+   Description: Converts temperature from Fahrenheit to Celsius.
 
-6. **Swap Two Numbers Using a Third Variable**  
+6. **Swap Two Numbers Using Third Variable**  
    File: [src/SwapNumbers.java](src/SwapNumbers.java)  
-   Description: Swaps two numbers with a temporary variable.
+   Description: Swaps two numbers using a temporary variable.
 
-7. **Swap Two Numbers Without a Third Variable**  
+7. **Swap Two Numbers Without Third Variable**  
    File: [src/SwapNumbersWithout.java](src/SwapNumbersWithout.java)  
-   Description: Swaps two numbers without using any additional variable.
+   Description: Swaps two numbers without using an extra variable.
 
 8. **Add Two Numbers**  
    File: [src/AddNumbers.java](src/AddNumbers.java)  
    Description: Adds two numbers and displays the result.
 
-9. **Find the Largest Number**  
+9. **Find Largest of Three Numbers**  
    File: [src/LargestOfThreeNumbers.java](src/LargestOfThreeNumbers.java)  
-   Description: Determines the largest number among three inputs.
+   Description: Finds the largest among three numbers.
 
-10. **If-Else Clause in Java**  
+10. **If-Else Statement Program**  
     File: [src/IfElse.java](src/IfElse.java)  
-    Description: Demonstrates the `if-else` clause.
+    Description: Demonstrates the if-else conditional statement.
 
-11. **Check Odd or Even Number**  
+11. **Odd or Even Number**  
     File: [src/OddOrEven.java](src/OddOrEven.java)  
-    Description: Checks if a number is odd or even.
+    Description: Checks whether a number is odd or even.
 
-12. **Find Factorial of a Number**  
+12. **Factorial Program**  
     File: [src/Factorial.java](src/Factorial.java)  
-    Description: Calculates the factorial of a given number.
+    Description: Calculates factorial of a number.
 
-13. **Compare Two Strings**  
+13. **Compare String Program**  
     File: [src/CompareString.java](src/CompareString.java)  
     Description: Compares two strings lexicographically.
 
-14. **Simple For Loop Program**  
+14. **For Loop Program**  
     File: [src/ForLoop.java](src/ForLoop.java)  
-    Description: Demonstrates a `for` loop to print a range of numbers.
+    Description: Demonstrates the use of for loop.
 
-15. **Simple While Loop Program**
+15. **While Loop Program**  
+    File: [src/WhileLoop.java](src/WhileLoop.java)  
+    Description: Demonstrates the use of while loop.
 
-     File: [src/WhileLoop.java](src/WhileLoop.java)  
-      Description: Demonstrates a `while` loop simple program with numbers.
+16. **Reverse Number Program**  
+    File: [src/ReverseNumber.java](src/ReverseNumber.java)  
+    Description: Reverses a valid integer number.
 
-16. **Print Reverse Number**
+17. **Prime Number Program**  
+    File: [src/PrimeNumbers.java](src/PrimeNumbers.java)  
+    Description: Checks whether a number is prime.
 
-     File: [src/ReverseNumber.java](src/ReverseNumber.java)  
-    Description: Reverses a valid positive integer and handles single-digit numbers and leading zeros.
+18. **Armstrong Number Program**  
+    File: [src/ArmstrongNumber.java](src/ArmstrongNumber.java)  
+    Description: Checks whether a number is an Armstrong number.
 
+19. **Multiplication Table Program**  
+    File: [src/MultiplicationTable.java](src/MultiplicationTable.java)  
+    Description: Prints multiplication table of a number.
 
+20. **Enhanced For Loop Program**  
+    File: [src/EnhancedForLoop.java](src/EnhancedForLoop.java)  
+    Description: Demonstrates enhanced for-each loop.
+
+21. **Alphabets Program**  
+    File: [src/Alphabets.java](src/Alphabets.java)  
+    Description: Prints alphabets using loop.
+
+22. **Break While Loop Program**  
+    File: [src/BreakWhileLoop.java](src/BreakWhileLoop.java)  
+    Description: Demonstrates break statement in while loop.
+
+23. **Break and Continue While Loop Program**  
+    File: [src/BreakContinueWhileLoop.java](src/BreakContinueWhileLoop.java)  
+    Description: Demonstrates break and continue statements.
+
+24. **Reverse String Program**  
+    File: [src/ReverseString.java](src/ReverseString.java)  
+    Description: Reverses a string.
+
+25. **Palindrome String Program**  
+    File: [src/Palindrome.java](src/Palindrome.java)  
+    Description: Checks whether a string is palindrome.
+
+26. **String Comparator Program**  
+    File: [src/StringComparator.java](src/StringComparator.java)  
+    Description: Compares two strings.
+
+27. **String EndsWith Program**  
+    File: [src/StringEndsWith.java](src/StringEndsWith.java)  
+    Description: Demonstrates endsWith() string method.
+
+28. **IndexOf Input Program**  
+    File: [src/IndexOfInput.java](src/IndexOfInput.java)  
+    Description: Demonstrates indexOf() method.
+
+29. **Replace All String Program**  
+    File: [src/ReplaceAllEnterString.java](src/ReplaceAllEnterString.java)  
+    Description: Replaces words in a string.
+
+30. **Split String Program**  
+    File: [src/SplitExample.java](src/SplitExample.java)  
+    Description: Demonstrates split() string method.
+
+31. **String Trim Program**  
+    File: [src/StringTrimExample.java](src/StringTrimExample.java)  
+    Description: Removes leading and trailing spaces from string.
+
+32. **String Lowercase Program**  
+    File: [src/StringLowerExample.java](src/StringLowerExample.java)  
+    Description: Converts string to lowercase.
+
+33. **String Methods Program**  
+    File: [src/StringMethods.java](src/StringMethods.java)  
+    Description: Finds string length, replace text, and concatenate strings.
+
+34. **Method Program**  
+    File: [src/Method.java](src/Method.java)  
+    Description: Demonstrates Java methods.
+
+35. **Static Block Program**  
+    File: [src/StaticBlock.java](src/StaticBlock.java)  
+    Description: Demonstrates static block execution before main method.
 ---
 
 ## Who This Repository Is For
