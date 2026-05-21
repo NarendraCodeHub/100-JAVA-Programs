@@ -1,6 +1,9 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+/**
+ * 40. Exception Handling java Program
+ */
 public class ExceptionExample {
 
 	public static void main(String[] args) {
